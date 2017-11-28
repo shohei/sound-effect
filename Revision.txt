@@ -1,0 +1,9 @@
+更新履歴:　最新のものが最も上にあります。
+
+10/26/2012 第2回　配布
+　変更点：　Readme.txt自体の誤記の修正
+　　　　　　　　　 "              追記
+           　　　Windows XP,Vista,Windows 7, および 64bitに関する言及
+　          PhM_Armk1.c　のバグ修正
+            geneMQ 配布
+10/16/2012 初回配布 geneMQ.c 未配布
